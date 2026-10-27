@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ken234-coder
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on other software engineers.
+- 👀 I’m interested in data analyst 
+- 🌱 I’m currently learning MYSQL and Power query
+- 💞️ I’m looking to collaborate on other Data analysts.
 - 📫 How to reach me through WhatsApp+254703122411
 
 <!---
