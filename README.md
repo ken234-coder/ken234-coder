@@ -12,7 +12,7 @@ Information Technology graduate (BSc, Rongo University, 2024) based in Lodwar, K
 - **Raw Data Cleaning:** an end-to-end MySQL cleaning workflow on a raw CSV dataset
 
 ## Currently
-Open to remote opportunities in data and technology.
+Open to hybrid opportunities in data and technology.
 
 ## Get in touch
 - 📧 kennedyarii245@gmail.com
