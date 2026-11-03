@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @ken234-coder
-- 👀 I’m interested in data analyst 
-- 🌱 I’m currently learning MYSQL and Power query
-- 💞️ I’m looking to collaborate on other Data analysts.
-- 📫 How to reach me through WhatsApp+254703122411
+# Hi, I'm Kennedy Arii 👋
 
-<!---
-ken234-coder/ken234-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Information Technology graduate (BSc, Rongo University, 2024) based in Lodwar, Kenya, focused on turning raw, messy data into clean, reliable datasets ready for analysis.
+
+## What I work with
+- **SQL / MySQL:** data cleaning, deduplication, standardization, NULL handling, exploratory analysis
+- **Excel Power Query (M):** data transformation and preparation
+- **MySQL Workbench:** database management and querying
+
+## Featured projects
+- **Layoffs Data Cleaning:** a MySQL project covering staging tables, duplicate removal, standardization, and NULL value backfilling
+- **Raw Data Cleaning:** an end-to-end MySQL cleaning workflow on a raw CSV dataset
+
+## Currently
+Open to remote opportunities in data and technology.
+
+## Get in touch
+- 📧 kennedyarii245@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kennedy-arii-8913b93a5)
